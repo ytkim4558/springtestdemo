@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class SampleService {
 
     public String getName() {
-        return "yongtak";
+        return "facemoktak2";
     }
 
 }
